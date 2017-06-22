@@ -1,4 +1,7 @@
-A game of Tetris developed quickly as a WinForms application to prove that it is possible to do so.
+# Tetris C# #
+<https://github.com/timdetering/Tetris-CSharp>
+
+A Tetris game clone developed quickly as a WinForms application.
 
 Allows custom blocksets. These are stored in files with a .blockset extension in the same directory as the application is being run from.
 Blocks must be square, with an even length side.
